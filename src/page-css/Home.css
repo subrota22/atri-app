@@ -1,0 +1,74 @@
+.p-Home.Div1 {
+height: 700px;
+margin-top: 120px;
+}
+.p-Home.Div2 {
+height: 250px;
+margin-top: 120px;
+}
+.p-Home.Menu2 {
+display: inline-block;
+}
+.p-Home.Carousel1 {
+;
+}
+.p-Home.Carousel2 {
+;
+}
+.p-Home.Accordion2 {
+;
+}
+.p-Home.Accordion3 {
+;
+}
+.p-Home.Accordion4 {
+;
+}
+.p-Home.Accordion5 {
+;
+}
+.p-Home.Carousel3 {
+;
+}
+.p-Home.Image1 {
+;
+}
+.p-Home.Countdown1 {
+;
+}
+.p-Home.Carousel4 {
+;
+}
+.p-Home.Carousel5 {
+height: 350px;
+width: 100%;
+margin-top: 10px;
+margin-bottom: 100px;
+padding-top: ;
+flex-grow: 10;
+flex-shrink: 12;
+order: 20;
+}
+.p-Home.Dropdown1 {
+;
+}
+.p-Home.TextBox30 {
+;
+}
+.p-Home.TextBox31 {
+;
+}
+@media screen and (max-width: 478px) {
+	.p-Home.Menu2.bpt {
+margin-left: 200px;
+	}
+	.p-Home.Dropdown1.bpt {
+margin-left: 2000px;
+	}
+	.p-Home.TextBox30.bpt {
+width: 1200px;
+	}
+	.p-Home.TextBox31.bpt {
+margin-left: 200px;
+	}
+}
